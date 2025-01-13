@@ -15,7 +15,7 @@ unity中存在一个[ScriptableSingleton<T0>](https://docs.unity3d.com/2020.1/Do
 
 ### 如何使用
 
-* 如果是Editor的`ScriptableObject`可直接继承`ScriptableObjectSingletonEditor`使用
+* 如果是Editor的`ScriptableObject`可直接继承`ScriptableObjectSingletonEditor`使用,也可以不继承该弗雷,但是要实现`ISingletion`接口
 * 如果是Runtime的`ScriptableObject`需要实现`ISingletion`接口
 
 示例:

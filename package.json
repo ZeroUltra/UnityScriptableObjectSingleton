@@ -1,0 +1,20 @@
+{
+  "name": "com.zeroultra.unityscriptableobjectsingleton",
+  "version": "1.0.0",
+  "displayName": "UnityScriptableObjectSingleton",
+  "description": "UnityScriptableObjectSingleton",
+  "documentationUrl": "https://github.com/ZeroUltra/PSD2Unity",
+  "changelogUrl": "https://github.com/ZeroUltra/PSD2Unity",
+  "licensesUrl": "https://github.com/ZeroUltra/PSD2Unity",
+  "keywords": [
+    "ScriptableObjec",
+    "Singleton"
+  ],
+  "samples": [
+    {
+      "displayName": "Test",
+      "path": "Samples~/Test"
+    }
+  ]
+
+}

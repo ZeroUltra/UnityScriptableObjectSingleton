@@ -1,0 +1,18 @@
+{
+    "name": "UnityScriptableObjectSingleton.Editor",
+    "rootNamespace": "UnityScriptableObjectSingleton.Editor",
+    "references": [
+        "GUID:5d11e28196c37cc438d0412286a9c3e4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
